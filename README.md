@@ -24,11 +24,9 @@ Routify is a powerful route optimization app designed to streamline your travel 
 To get started with Routify, follow these steps:
 
 1. Visit our website at [https://routifyme.com/](https://routifyme.com/) or [https://routify.tn/](https://routify.tn/).
-2. Sign up for an account and log in.
-3. Enter your destinations or import them from a file.
-4. Customize your route preferences if desired.
-5. Click on "Optimize Route" to generate the optimized route.
-6. Follow the directions provided by Routify to reach each destination efficiently.
+2. Paste the Google Maps URL of the route you want to optimize.
+3. Click on "Optimize" button.
+4. A new tab will open with the optimized route displayed in Google Maps.
 
 ## Feedback and Support
 

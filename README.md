@@ -33,5 +33,6 @@ To get started with Routify, follow these steps:
 We value your feedback and are dedicated to providing excellent support. If you have any questions, suggestions, or encounter any issues while using Routify, please reach out to our support team at support@routifyme.com.
 
 ---
+We believe that Routify is a better alternative to Routora (https://www.routora.com/) as it consistently delivers superior results. Try Routify today and experience optimized routes like never before!
 
 We hope that Routify enhances your travel experience and simplifies your route planning. Start optimizing your routes today and enjoy hassle-free navigation!

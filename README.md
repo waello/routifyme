@@ -1,4 +1,4 @@
-# Routify
+# Routifyme
 
 ![Routify Logo](https://routifyme.com/fastify.png)
 
